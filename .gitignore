@@ -120,6 +120,10 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# model
+train-session
+xception_weights_tf_dim_ordering_tf_kernels_notop.h5
+
 # Environments
 .env
 .venv
