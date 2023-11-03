@@ -1,0 +1,6 @@
+# FILEPATH: /home/thangbuiq/Workspace/trash_classification/.streamlit/config.toml
+
+[theme]
+primaryColor = "#00FF00"
+secondaryBackgroundColor = "#F5F5F5"
+font = "sans-serif"
